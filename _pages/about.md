@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at Department of Roads and Airports in Tonga University since Fall’21. I am being advised by [Hongduo Zhao](https://www.researchgate.net/profile/Hongduo-Zhao).
+I am a PhD student at Department of Roads and Airports in Tongji University since Fall’21. I am being advised by [Hongduo Zhao](https://www.researchgate.net/profile/Hongduo-Zhao).
 
 I am generally interested in **programming systems** and **machine learning**. Specifically I am looking at:
 
