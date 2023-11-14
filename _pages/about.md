@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at Department of Road and Airport Engineering in Tongji University since Fall’21. I am being advised by [Hongduo Zhao](https://www.researchgate.net/profile/Hongduo-Zhao) at [Jianming Ling's Lab](https://jmling.tongji.edu.cn).
+I am a PhD student at [Department of Road and Airport Engineering](https://tjjt.tongji.edu.cn/info/1502/5651.htm) in [Tongji University](https://en.tongji.edu.cn) since Fall’21. I am being advised by [Hongduo Zhao](https://www.researchgate.net/profile/Hongduo-Zhao) at [Jianming Ling's Lab](https://jmling.tongji.edu.cn).
 
 I am generally interested in **Topology Optimization** and **Civil Engineering**. Specifically I am looking at:
 
