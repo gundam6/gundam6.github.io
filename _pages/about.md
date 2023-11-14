@@ -54,8 +54,7 @@ I am generally interested in **Topology Optimization** and **Civil Engineering**
 <div class='paper-box-text' markdown="1">
 
 
-
-[Reconstruction of Vehicle-Induced Vibration on Concrete Pavement Using Distributed Fiber Optic](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Reconstruction of Vehicle-Induced Vibration on Concrete Pavement Using Distributed Fiber Optic](https://ieeexplore.ieee.org/abstract/document/9894357)
 
 Mengyuan Zeng, Hongduo Zhao, **Dahcen Gao**, Zeying Bian, Difei Wu*
 
@@ -83,7 +82,7 @@ Ke Cheng, **Dachen Gao**, Hongduo Zhao, Lukuan Ma*, Mengyuan Zeng
 </div>
 </div>
 
-- [Investigation on vibration field of concrete pavement using distributed optical fiber sensors](https://trid.trb.org/view/1900886), **Dachen Gao**, Mengyuan Zeng*, Hongduo Zhao, Zeying Bian, Keri Peng, **TRB 2022**
+- <div class="badge">TRB 2022</div> [Investigation on vibration field of concrete pavement using distributed optical fiber sensors](https://trid.trb.org/view/1900886), **Dachen Gao**, Mengyuan Zeng*, Hongduo Zhao, Zeying Bian, Keri Peng, **TRB 2022**
 - [Pavement coding method providing high-precision positioning for vehicles](https://books.google.com.hk/books?hl=en&lr=&id=mEpREAAAQBAJ&oi=fnd&pg=PA260&dq=info:OYvKbeV7EWoJ:scholar.google.com&ots=pOx6DM_GbO&sig=oaHy4Gqrew_RDKbb7Zz6zyXRTDY&redir_esc=y#v=onepage&q&f=false), Lanruo Zhao, Hongduo Zhao, **Dachen Gao**, Juewei Cai, **IFRAE 2021**
 
 # 🎖 Honors and Awards
