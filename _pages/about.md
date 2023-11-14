@@ -42,7 +42,7 @@ I am generally interested in **Topology Optimization** and **Civil Engineering**
 
 
 
-[Topology Optimization Design and Validation of Cement Concrete Pavement Structure for Truck Platooning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Topology Optimization Design and Validation of Cement Concrete Pavement Structure for Truck Platooning]()
 
 **Dahcen Gao**, Hongduo Zhao, Lukuan Ma*, Hanyu Chen, Ke Cheng
 
