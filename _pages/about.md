@@ -82,7 +82,7 @@ Ke Cheng, **Dachen Gao**, Hongduo Zhao, Lukuan Ma*, Mengyuan Zeng
 </div>
 </div>
 
-- `TRB 2022`[Investigation on vibration field of concrete pavement using distributed optical fiber sensors](https://trid.trb.org/view/1900886), **Dachen Gao**, Mengyuan Zeng*, Hongduo Zhao, Zeying Bian, Keri Peng
+- `TRB 2022` [Investigation on vibration field of concrete pavement using distributed optical fiber sensors](https://trid.trb.org/view/1900886), **Dachen Gao**, Mengyuan Zeng*, Hongduo Zhao, Zeying Bian, Keri Peng
 - [Pavement coding method providing high-precision positioning for vehicles](https://books.google.com.hk/books?hl=en&lr=&id=mEpREAAAQBAJ&oi=fnd&pg=PA260&dq=info:OYvKbeV7EWoJ:scholar.google.com&ots=pOx6DM_GbO&sig=oaHy4Gqrew_RDKbb7Zz6zyXRTDY&redir_esc=y#v=onepage&q&f=false), Lanruo Zhao, Hongduo Zhao, **Dachen Gao**, Juewei Cai, **IFRAE 2021**
 
 # 🎖 Honors and Awards
