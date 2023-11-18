@@ -36,6 +36,19 @@ I am generally interested in the intersection of **Topology Optimization** and *
 
 ## 📄**Papers**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://pic.kanikig.xyz/images/2023/11/18/image-20231118162009588.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A reaction diffusion-based level set method for element-wise stress constraint in structural topology optimization]()
+
+**Dahcen Gao**, Hongduo Zhao, Haoyu Chen, Lukuan Ma*
+
+*International Journal for Numerical Methods in Engineering*
+
+- Introduced a reaction diffusion-based level set method that effectively constrains local stress and achieves fast convergence in structural topology optimization
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JTJU</div><img src='https://pic.kanikig.xyz/images/2023/11/18/iShot_2023-11-18_15.25.29.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,9 +91,9 @@ Ke Cheng, **Dachen Gao**, Hongduo Zhao, Lukuan Ma*, Mengyuan Zeng
 - Constructed topology-optimized pavement structures using a combination of irregular steel formwork casting technique and 3D concrete printing (3DCP) technology.
 
 - Executed loading tests to validate the structural performance of the topology-optimized slab.
+</div>
+</div>
 
-  </div>
-  </div>
 
 - `TRB 2022` [Investigation on vibration field of concrete pavement using distributed optical fiber sensors](https://trid.trb.org/view/1900886), **Dachen Gao**, Mengyuan Zeng*, Hongduo Zhao, Zeying Bian, Kedi Peng
 
