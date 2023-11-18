@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at [Department of Road and Airport Engineering](https://tjjt.tongji.edu.cn/info/1502/5651.htm) in [Tongji University](https://en.tongji.edu.cn) since Fall’21. I am being advised by Prof. [Hongduo Zhao](https://www.researchgate.net/profile/Hongduo-Zhao) at [Jianming Ling's Lab](https://jmling.tongji.edu.cn).
 
-For detailed information about my academic journey, you can refer to my [CV](https://drive.google.com/file/d/1w1wLYCg99JiyHYf8Uog1Pk8MPvFhERYW/view?usp=share_link).
+For detailed information about my academic journey, you can refer to my [CV](https://drive.google.com/file/d/10uvC1qg2wHqUp-X0Osmgv9zGSm9kw-mp/view?usp=share_link).
 
 I am generally interested in the intersection of **Topology Optimization** and **Airport Pavement Engineering**. Specifically I am looking at:
 
@@ -35,11 +35,9 @@ I am generally interested in the intersection of **Topology Optimization** and *
 # 📝 Publications
 
 ## 📄**Papers**
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://pic.kanikig.xyz/images/2023/11/18/image-20231118162009588.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[A reaction diffusion-based level set method for element-wise stress constraint in structural topology optimization]()
+[A Reaction Diffusion-Based Level Set Method for Element-wise Stress Constraint in Structural Topology Optimization]()
 
 **Dahcen Gao**, Hongduo Zhao, Haoyu Chen, Lukuan Ma*
 
@@ -65,7 +63,6 @@ I am generally interested in the intersection of **Topology Optimization** and *
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITS</div><img src='https://pic.kanikig.xyz/images/2023/11/18/image-20231118154307501.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Reconstruction of Vehicle-Induced Vibration on Concrete Pavement Using Distributed Fiber Optic](https://ieeexplore.ieee.org/abstract/document/9894357)
 
 Mengyuan Zeng, Hongduo Zhao, **Dahcen Gao**, Zeying Bian, Difei Wu*
@@ -95,14 +92,14 @@ Ke Cheng, **Dachen Gao**, Hongduo Zhao, Lukuan Ma*, Mengyuan Zeng
 </div>
 
 
-- `TRB 2022` [Investigation on vibration field of concrete pavement using distributed optical fiber sensors](https://trid.trb.org/view/1900886), **Dachen Gao**, Mengyuan Zeng*, Hongduo Zhao, Zeying Bian, Kedi Peng
+- `TRB 2022` [Investigation on Vibration Field of Concrete Pavement Using Distributed Optical Fiber Sensors](https://trid.trb.org/view/1900886), **Dachen Gao**, Mengyuan Zeng*, Hongduo Zhao, Zeying Bian, Kedi Peng
 
-- `IFRAE 2021` [Pavement coding method providing high-precision positioning for vehicles](https://books.google.com.hk/books?hl=en&lr=&id=mEpREAAAQBAJ&oi=fnd&pg=PA260&dq=info:OYvKbeV7EWoJ:scholar.google.com&ots=pOx6DM_GbO&sig=oaHy4Gqrew_RDKbb7Zz6zyXRTDY&redir_esc=y#v=onepage&q&f=false), Lanruo Zhao, Hongduo Zhao, **Dachen Gao**, Juewei Cai
+- `IFRAE 2021` [Pavement Coding Method Providing High-Precision Positioning for Vehicles](https://books.google.com.hk/books?hl=en&lr=&id=mEpREAAAQBAJ&oi=fnd&pg=PA260&dq=info:OYvKbeV7EWoJ:scholar.google.com&ots=pOx6DM_GbO&sig=oaHy4Gqrew_RDKbb7Zz6zyXRTDY&redir_esc=y#v=onepage&q&f=false), Lanruo Zhao, Hongduo Zhao, **Dachen Gao**, Juewei Cai
 
 ## 💡**Patents**
 
 - `CN202210395426.6` **A vehicle wheel track real-time localization and speed measurement system and method**, Hongduo Zhao, **Dachen Gao**, Mengyuan Zeng, Zeying Bian, Kedi Peng (Granted)
-- `CN202211021148.4` **A Depth Camera-Based Method for Evaluating the Paving Accuracy of Precast pavement Surfaces**, Hongduo Zhao, **Dachen Gao**, Jianming Ling, Cai Zhao, Lukuan Ma, Xin Qian (Pending)
+- `CN202211021148.4` **A depth camera-based method for evaluating the paving accuracy of precast pavement surfaces**, Hongduo Zhao, **Dachen Gao**, Jianming Ling, Cai Zhao, Lukuan Ma, Xin Qian (Pending)
 - `CN202210731425.4` **A system and method for modal-aware analysis of cement concrete pavement structure**, Hongduo Zhao, Kedi Peng, Mengyuan Zeng, Zeying Bian, **Dachen Gao** (Pending)
 
 # 🎖 Honors and Awards
