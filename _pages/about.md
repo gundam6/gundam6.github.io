@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at [Department of Road and Airport Engineering](https://tjjt.tongji.edu.cn/info/1502/5651.htm) in [Tongji University](https://en.tongji.edu.cn) since Fall’21. I am being advised by Prof. [Hongduo Zhao](https://www.researchgate.net/profile/Hongduo-Zhao) at [Jianming Ling's Lab](https://jmling.tongji.edu.cn).
 
-For detailed information about my academic journey, you can refer to my [CV](https://drive.google.com/file/d/18h4_ohmQ9QCrglR6GGGodFW2cc8fwzLE/view?usp=share_link).
+For detailed information about my academic journey, you can refer to my [CV](https://drive.google.com/file/d/1w1wLYCg99JiyHYf8Uog1Pk8MPvFhERYW/view?usp=share_link).
 
 I am generally interested in the intersection of **Topology Optimization** and **Airport Pavement Engineering**. Specifically I am looking at:
 
