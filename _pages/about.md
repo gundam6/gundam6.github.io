@@ -39,7 +39,7 @@ I am generally interested in the intersection of **Topology Optimization** and *
 <div class='paper-box-text' markdown="1">
 [A Reaction Diffusion-Based Level Set Method for Element-wise Stress Constraint in Structural Topology Optimization]()
 
-**Dahcen Gao**, Hongduo Zhao, Haoyu Chen, Lukuan Ma*
+**Dachen Gao**, Hongduo Zhao, Haoyu Chen, Lukuan Ma*
 
 *International Journal for Numerical Methods in Engineering*
 
@@ -52,7 +52,7 @@ I am generally interested in the intersection of **Topology Optimization** and *
 
 [Topology Optimization Design and Validation of Cement Concrete Pavement Structure for Truck Platooning]()
 
-**Dahcen Gao**, Hongduo Zhao, Lukuan Ma*, Hanyu Chen, Ke Cheng
+**Dachen Gao**, Hongduo Zhao, Lukuan Ma*, Haoyu Chen, Ke Cheng
 
 *Journal of Tongji University*
 
@@ -65,7 +65,7 @@ I am generally interested in the intersection of **Topology Optimization** and *
 <div class='paper-box-text' markdown="1">
 [Reconstruction of Vehicle-Induced Vibration on Concrete Pavement Using Distributed Fiber Optic](https://ieeexplore.ieee.org/abstract/document/9894357)
 
-Mengyuan Zeng, Hongduo Zhao, **Dahcen Gao**, Zeying Bian, Difei Wu*
+Mengyuan Zeng, Hongduo Zhao, **Dachen Gao**, Zeying Bian, Difei Wu*
 
 *IEEE Transactions on Intelligent Transportation Systems*
 
