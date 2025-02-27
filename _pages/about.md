@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at [Department of Road and Airport Engineering](https://tjjt.tongji.edu.cn/info/1502/5651.htm) in [Tongji University](https://en.tongji.edu.cn) since Fall’21. I am being advised by Prof. [Hongduo Zhao](https://www.researchgate.net/profile/Hongduo-Zhao) at [Jianming Ling's Lab](https://jmling.tongji.edu.cn).
 
-For detailed information about my academic journey, you can refer to my [CV](https://drive.google.com/file/d/10uvC1qg2wHqUp-X0Osmgv9zGSm9kw-mp/view?usp=share_link).
+For detailed information about my academic journey, you can refer to my [CV](https://drive.google.com/file/d/1tDe0q4lXzFnlk7isdHnqm8stcFeg_1fQ/view?usp=sharing).
 
 I am generally interested in the intersection of **Topology Optimization** and **Airport Pavement Engineering**. Specifically I am looking at:
 
@@ -74,6 +74,23 @@ Mengyuan Zeng, Hongduo Zhao, **Dachen Gao**, Zeying Bian, Difei Wu*
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='https://pic.kanikig.xyz/images/2025/02/27/fwd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Lightweight Precast Concrete Pavement Slab Based on Topology Optimization and Engineered Cementitious Composite: Design and Validation]()
+
+Yuxuan Xia, Ke Cheng*, **Dachen Gao**, Mengyuan Zeng, Hongduo Zhao
+
+*Transportation Research Board 104th Annual Meeting*
+
+- Proposed a level-set based topology optimization method for airfield pavement slabs.
+
+- Constructed topology-optimized pavement slabs using irregular steel formwork.
+
+- Conducted full-scale loading tests to validate the structural performance of the topology-optimized slabs.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2024</div><img src='https://pic.kanikig.xyz/images/2023/11/18/-TRBAM-24-05828-4-.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -91,10 +108,13 @@ Ke Cheng, **Dachen Gao**, Hongduo Zhao, Lukuan Ma*, Mengyuan Zeng
 </div>
 </div>
 
+- `TRB 2025` [Strain field analysis of precast concrete pavement using distributed optical fiber sensors](), Ziyi Wang, Ke Cheng*, **Dachen Gao**,  Mengyuan Zeng, Hongduo Zhao
+
+- `WTC 2024` [Topology optimization method for lightweight precast pavement structures](), **Dachen Gao**, Ke Cheng, Lukuan Ma, Hongduo Zhao*
 
 - `TRB 2022` [Investigation on Vibration Field of Concrete Pavement Using Distributed Optical Fiber Sensors](https://trid.trb.org/view/1900886), **Dachen Gao**, Mengyuan Zeng*, Hongduo Zhao, Zeying Bian, Kedi Peng
 
-- `IFRAE 2021` [Pavement Coding Method Providing High-Precision Positioning for Vehicles](https://books.google.com.hk/books?hl=en&lr=&id=mEpREAAAQBAJ&oi=fnd&pg=PA260&dq=info:OYvKbeV7EWoJ:scholar.google.com&ots=pOx6DM_GbO&sig=oaHy4Gqrew_RDKbb7Zz6zyXRTDY&redir_esc=y#v=onepage&q&f=false), Lanruo Zhao, Hongduo Zhao, **Dachen Gao**, Juewei Cai
+- `IFRAE 2021` [Pavement Coding Method Providing High-Precision Positioning for Vehicles](https://books.google.com.hk/books?hl=en&lr=&id=mEpREAAAQBAJ&oi=fnd&pg=PA260&dq=info:OYvKbeV7EWoJ:scholar.google.com&ots=pOx6DM_GbO&sig=oaHy4Gqrew_RDKbb7Zz6zyXRTDY&redir_esc=y#v=onepage&q&f=false), Lanruo Zhao, Hongduo Zhao, **Dachen Gao***, Juewei Cai
 
 ## 💡**Patents**
 
