@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at [Department of Road and Airport Engineering](https://tjjt.tongji.edu.cn/info/1502/5651.htm) in [Tongji University](https://en.tongji.edu.cn) since Fall’21. I am being advised by Prof. [Hongduo Zhao](https://www.researchgate.net/profile/Hongduo-Zhao) at [Jianming Ling's Lab](https://jmling.tongji.edu.cn).
+I am a PhD student at [Department of Road and Airport Engineering](https://tjjt.tongji.edu.cn/info/1502/5651.htm) in [Tongji University](https://en.tongji.edu.cn) since Fall’21. I am being advised by Prof. [Hongduo Zhao](https://tjjt.tongji.edu.cn/info/3027/9616.htm) at [Jianming Ling's Lab](https://jmling.tongji.edu.cn).
 
 For detailed information about my academic journey, you can refer to my [CV](https://drive.google.com/file/d/1tDe0q4lXzFnlk7isdHnqm8stcFeg_1fQ/view?usp=sharing).
 
